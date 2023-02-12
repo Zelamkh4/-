@@ -1,0 +1,15 @@
+/Users/zelamkh/C#/C#007.Magic/bin/Debug/net6.0/C#007.Magic
+/Users/zelamkh/C#/C#007.Magic/bin/Debug/net6.0/C#007.Magic.deps.json
+/Users/zelamkh/C#/C#007.Magic/bin/Debug/net6.0/C#007.Magic.runtimeconfig.json
+/Users/zelamkh/C#/C#007.Magic/bin/Debug/net6.0/C#007.Magic.dll
+/Users/zelamkh/C#/C#007.Magic/bin/Debug/net6.0/C#007.Magic.pdb
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.csproj.AssemblyReference.cache
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.AssemblyInfoInputs.cache
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.AssemblyInfo.cs
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.dll
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/refint/C#007.Magic.dll
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.pdb
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/C#007.Magic.genruntimeconfig.cache
+/Users/zelamkh/C#/C#007.Magic/obj/Debug/net6.0/ref/C#007.Magic.dll
