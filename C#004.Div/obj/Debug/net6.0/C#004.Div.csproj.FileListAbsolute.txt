@@ -1,0 +1,15 @@
+/Users/zelamkh/C#/C#004.Div/bin/Debug/net6.0/C#004.Div
+/Users/zelamkh/C#/C#004.Div/bin/Debug/net6.0/C#004.Div.deps.json
+/Users/zelamkh/C#/C#004.Div/bin/Debug/net6.0/C#004.Div.runtimeconfig.json
+/Users/zelamkh/C#/C#004.Div/bin/Debug/net6.0/C#004.Div.dll
+/Users/zelamkh/C#/C#004.Div/bin/Debug/net6.0/C#004.Div.pdb
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.csproj.AssemblyReference.cache
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.AssemblyInfoInputs.cache
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.AssemblyInfo.cs
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.dll
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/refint/C#004.Div.dll
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.pdb
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/C#004.Div.genruntimeconfig.cache
+/Users/zelamkh/C#/C#004.Div/obj/Debug/net6.0/ref/C#004.Div.dll
