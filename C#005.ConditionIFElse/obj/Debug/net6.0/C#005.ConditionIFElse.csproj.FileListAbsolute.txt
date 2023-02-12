@@ -1,0 +1,15 @@
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.csproj.AssemblyReference.cache
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.AssemblyInfoInputs.cache
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.AssemblyInfo.cs
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#/C#005.ConditionIFElse/bin/Debug/net6.0/C#005.ConditionIFElse
+/Users/zelamkh/C#/C#005.ConditionIFElse/bin/Debug/net6.0/C#005.ConditionIFElse.deps.json
+/Users/zelamkh/C#/C#005.ConditionIFElse/bin/Debug/net6.0/C#005.ConditionIFElse.runtimeconfig.json
+/Users/zelamkh/C#/C#005.ConditionIFElse/bin/Debug/net6.0/C#005.ConditionIFElse.dll
+/Users/zelamkh/C#/C#005.ConditionIFElse/bin/Debug/net6.0/C#005.ConditionIFElse.pdb
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.dll
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/refint/C#005.ConditionIFElse.dll
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.pdb
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/C#005.ConditionIFElse.genruntimeconfig.cache
+/Users/zelamkh/C#/C#005.ConditionIFElse/obj/Debug/net6.0/ref/C#005.ConditionIFElse.dll
