@@ -1,0 +1,15 @@
+/Users/zelamkh/C#/C#003.Summ/bin/Debug/net6.0/C#003.Summ
+/Users/zelamkh/C#/C#003.Summ/bin/Debug/net6.0/C#003.Summ.deps.json
+/Users/zelamkh/C#/C#003.Summ/bin/Debug/net6.0/C#003.Summ.runtimeconfig.json
+/Users/zelamkh/C#/C#003.Summ/bin/Debug/net6.0/C#003.Summ.dll
+/Users/zelamkh/C#/C#003.Summ/bin/Debug/net6.0/C#003.Summ.pdb
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.csproj.AssemblyReference.cache
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.AssemblyInfoInputs.cache
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.AssemblyInfo.cs
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.dll
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/refint/C#003.Summ.dll
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.pdb
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/C#003.Summ.genruntimeconfig.cache
+/Users/zelamkh/C#/C#003.Summ/obj/Debug/net6.0/ref/C#003.Summ.dll
